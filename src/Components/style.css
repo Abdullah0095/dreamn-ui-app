@@ -1,0 +1,138 @@
+                        /* INTRODUCTION PAGE 1 */
+.intro1{
+    color: white;
+    text-align: center;
+    width: 100%;
+    
+}
+
+.intro1 img{
+    height: 400px;
+    width: 300px;
+    margin-bottom: 50px;
+    
+}
+.intro1 p{
+    color: rgb(102, 101, 101);
+    margin-top: 30px;
+}
+.intro1 footer{
+    margin-top: 150px;
+}
+ 
+/* CREATE ACCOUNT PAGE */ 
+
+.createPage{
+    
+    /* color: white;
+    text-align: center;
+    width: 100%; */ 
+    height: 680px;
+    width: 100%;
+    background-color: rgba(34,39,56,255);
+    text-align: center;
+    color: white;
+}
+.createPage img{
+    margin-top: 30px;
+    margin-bottom: 10px;
+    height: 200px;
+    width: 200px;
+}
+.createPage h1{
+    margin: 10px;
+}
+.createPage p{
+    color: rgb(102, 101, 101);
+}
+
+.formBox input{
+    color: rgb(102, 101, 101);
+    border-radius: 10px;
+    height: 40px;
+    /* width: 50%; */
+    border: none;
+    background-color: rgb(13, 23, 32);
+    margin: 5px;
+    font-size: smaller;
+    
+}
+#formBtn{
+    margin: 20px;
+    height: 40px;
+    width: 15%;
+    font-weight: bold;
+    border-radius: 10px;
+}
+.formBox p{
+    margin-top: -15px;
+    color: white;
+    margin-bottom: 40px;
+}
+
+/* login page */ 
+#loginPage{
+    /* text-align: center; */
+    height: 680px;
+    width: 100%;
+    background-color: rgba(34,39,56,255);
+    text-align: center;
+    color: white;
+}
+#loginPage img{
+    height: 200px;
+    width: 200px;
+    margin-top: 10px;
+}
+#loginPage input{
+    margin: 20px;
+    height: 40px;
+    border-radius: 10px;
+    border: 1px solid rgb(13, 23, 32);
+}
+#loginPage a{
+    color: white;
+    margin-left: 200px;
+}
+
+#loginBtn{
+    height: 40px;
+    width: 15%;
+    border-radius: 10px;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+/* INTRO PAGE 2 */  
+
+.intro2{
+    height: 680px;
+    width: 100%;
+    background-color: rgba(34,39,56,255);
+    text-align: center;
+    color: white;
+    
+}
+.intro2 img{
+    height: 200px;
+    width: 200px;
+    margin: 30px;
+}
+.intro2 h1{
+    margin: 25px;
+    
+}
+.intro2 p{
+    color: gray;
+}
+.intro2 footer{
+    margin-top: 30px;
+}
+.intro2 button{
+    margin: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+    height: 40px;
+    border-radius: 10px;
+    font-weight: bolder;
+}
